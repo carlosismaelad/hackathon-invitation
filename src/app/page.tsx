@@ -35,7 +35,10 @@ export default function Home() {
               palestras, workshops e hackathons.
               <br />
               <br />
-              Dias 15 a 17 de março | Das 18h às 21h | Presencial & Gratuito
+              Dias 22 de março | Das 8h às 21h | Presencial & Gratuito
+              <br />
+              <br />
+              Local: Av Santos Dummont, 5474, Fortaleza-CE
             </p>
           </div>
           <form className="bg-gray-700 border-gray-600 rounded-2xl p-8 space-y-6 w-full md:max-w-[440px]">
