@@ -11,7 +11,7 @@ export default function Home() {
         <div className="flex flex-col gap-8 items-center md:items-start">
           <Image src={logo} alt="devstage logo" width={108.5} height={30} />
           <h1 className="text-4xl text-center leading-none font-heading font-medium flex flex-col md:text-7xl md:text-left">
-            <span className="text-blue">CodeCraft</span>
+            <span className="text-blue">Fortal Code</span>
             Summit 2025
           </h1>
         </div>
@@ -35,7 +35,7 @@ export default function Home() {
               palestras, workshops e hackathons.
               <br />
               <br />
-              Dias 15 a 17 de março | Das 18h às 21h | Online & Gratuito
+              Dias 15 a 17 de março | Das 18h às 21h | Presencial & Gratuito
             </p>
           </div>
           <form className="bg-gray-700 border-gray-600 rounded-2xl p-8 space-y-6 w-full md:max-w-[440px]">
